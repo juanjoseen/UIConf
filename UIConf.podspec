@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'UIConf'
   s.version          = '0.1.0'
-  s.summary          = 'This is a framework to create UI elements based on UIKit configuring several fields of UIElements since the init.'
+  s.summary          = 'A framework to create UI elements based on UIKit'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
+  s.description      = 'This is a framework to create UI elements based on UIKit configuring several fields of UIElements since the init.'
 TODO: Add long description of the pod here.
                        DESC
 
