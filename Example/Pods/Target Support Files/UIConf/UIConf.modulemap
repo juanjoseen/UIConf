@@ -1,0 +1,6 @@
+framework module UIConf {
+  umbrella header "UIConf-umbrella.h"
+
+  export *
+  module * { export * }
+}

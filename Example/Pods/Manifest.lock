@@ -1,0 +1,16 @@
+PODS:
+  - UIConf (0.1.0)
+
+DEPENDENCIES:
+  - UIConf (from `../`)
+
+EXTERNAL SOURCES:
+  UIConf:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIConf: 9ec70d896c9f94792f98ea29320886835d9dc56f
+
+PODFILE CHECKSUM: 4bbbfd6a9a0539718ce9e6b9f45760f5bc3a93dc
+
+COCOAPODS: 1.15.2
