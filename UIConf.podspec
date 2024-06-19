@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UIConf'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'A framework to create UI elements based on UIKit'
 
 # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '16.0'
 
-  s.source_files = 'UIConf/Classes/**/*'
+  s.source_files = 'UIConf/**/*'
   
   # s.resource_bundles = {
   #   'UIConf' => ['UIConf/Assets/*.png']
